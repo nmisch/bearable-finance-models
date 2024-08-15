@@ -1,7 +1,17 @@
 # Bearable Finance Models
 
 This is a project for financial models, currently limited to backtesting for the
-decision between buying a dwelling in the United States and renting one.
+decision between buying a dwelling in the United States and renting one.  The
+model is a [Jupyter Notebook](https://en.wikipedia.org/wiki/Project_Jupyter).
+To use it:
+
+- Visit [colab.research.google.com](https://colab.research.google.com)
+- File -> Upload notebook
+- Browse to file `Buy_vs_Rent.ipynb` here
+- Follow the embedded instructions
+
+If you test with other Jupyter Notebook implementations, I'd value hearing about
+those experiences.
 
 ## Contributing
 
